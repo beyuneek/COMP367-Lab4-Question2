@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ClassLibrary</id>
+    <version>1.0.1</version>
+    <authors>ClassLibrary</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="1b098497f7f54c703eef0dac2e33e0ffd5257d60" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\Question 2\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll" target="lib\net8.0\ClassLibrary.dll" />
+  </files>
+</package>

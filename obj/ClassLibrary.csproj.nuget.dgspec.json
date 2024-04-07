@@ -27,10 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagesource": {},
-          "https://pkgs.dev.azure.com/parthsharma8715/COMP-367-Lab-4/_packaging/MyLibraryFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/pshar251/COMP367-Lab4-Question-2/_packaging/LAB4Q2/nuget/v3/index.json": {}
+          "https://pkgs.dev.azure.com/pshar251/Lab4Q2/_packaging/NewFeed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
